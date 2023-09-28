@@ -64,14 +64,14 @@ To run the project, you can use the Makefile and follow these commands:
 
 2. On running ```make test```, it passes the test:
 
-![test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/280e4b2a-0772-4bea-8511-491d2861afaa)
+![test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/6848df7a-c929-41e1-93ae-3f8906282f40)
 
 3. On running ```make format```:
 
-![format](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/18e73837-777c-4cf5-a076-217c6e6335af)
+![format](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/f5cfc452-db98-4f24-9539-166d3d3cddf4)
 
 ***
 
 ### Successful Workflow Run
 
-![workflow](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/3e3208cc-ccbf-4707-a46d-d47918f58d08)
+![workflow](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/1a6b2a5c-5a5e-4135-8036-6751481baf57)
