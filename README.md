@@ -22,7 +22,7 @@ To streamline the integration of the codebase into the development pipeline, I c
    - **devcontainer.json**: defines the settings for the development container, such as which Dockerfile to use and environment variables.
 3. **Makefile**: contains a set of rules that define how to compile source code, run tests, and perform other development tasks. 
 4. **requirements.txt**: lists all the external libraries and dependencies required for the project to run correctly. It helps ensure that everyone working on the project uses the same versions of libraries, which is important for reproducibility and compatibility.
-5. **workflows**: contains configuration file **(cicd.yml)** for matrix build that tests more than one than one version of Python.
+5. **workflows**: contains configuration file **(cicd.yml)** for matrix build that tests more than one version of Python.
 6. **main.py**: contains a basic function which displays system info.
 7. **test_main.py**: python file to test the function in main.
 8. **README**: gives developers a detailed description of the GitHub project.
