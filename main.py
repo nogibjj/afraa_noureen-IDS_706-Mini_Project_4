@@ -1,6 +1,7 @@
 """main module"""
 import platform
 
+
 def display_system_info():
     """
     Display system information including the OS and hardware details.
