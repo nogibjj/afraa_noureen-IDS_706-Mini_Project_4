@@ -1,4 +1,4 @@
-name: CI/CD matrix build for multiple python versions
+name: CI/CD matrix build python 3.7, 3.8 3.9 3.11 ubuntu windows
 on:
   push:
     branches: [ "main" ]
