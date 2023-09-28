@@ -6,7 +6,7 @@
 ***
 
 #### Purpose
-This repo is for Mini-Project 4 of the Data Engineering course. It is specifically focused on establishing a GitHub Actions workflow designed to facilitate the systematic testing of the codebase against different Python versions.
+This repo is for Mini-Project 4 of the Data Engineering course. The purpose is to establish a GitHub Actions workflow designed to facilitate the systematic testing of the codebase against different Python versions.
 
 The fundamental project requirements are as follows:
 1. Implementation of a GitHub Actions workflow.
