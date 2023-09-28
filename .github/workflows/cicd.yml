@@ -1,4 +1,4 @@
-name: CI/CD matrix build multiple pythons
+name: CI/CD matrix build for multiple python versions
 on:
   push:
     branches: [ "main" ]
