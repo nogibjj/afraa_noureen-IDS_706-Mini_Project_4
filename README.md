@@ -56,3 +56,22 @@ To run the project, you can use the Makefile and follow these commands:
 
 ***
 
+### Result
+
+1. On running ```make lint```:
+
+![lint](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/d9640421-9adb-4e8d-ad2b-2cd2fa3ca501)
+
+2. On running ```make test```, it passes the test:
+
+![test](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/280e4b2a-0772-4bea-8511-491d2861afaa)
+
+3. On running ```make format```:
+
+![format](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/18e73837-777c-4cf5-a076-217c6e6335af)
+
+***
+
+### Successful Workflow Run
+
+![workflow](https://github.com/nogibjj/afraa_noureen-IDS_706-Mini_Project_4/assets/143756865/3e3208cc-ccbf-4707-a46d-d47918f58d08)
